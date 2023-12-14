@@ -27,7 +27,7 @@ const routes: Routes = [
   {
     path: 'episodes',
     loadChildren: () => import('./pages/episodes/episodes.module').then( m => m.EpisodesPageModule)
-  },
+  }
 ];
 
 @NgModule({
