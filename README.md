@@ -17,7 +17,12 @@ cd RickAndMortyAPI
 
 ## Instalar Dependencias
 npm install
-
+## Instalar Dependencias
+Asegurese de tener Angular Cli instalado
+y a su vez ionic
+puede hacerlo mediante estos dos comandos 
+´´´npm install -g @ionic/cli´´´
+´´´npm install @angular/cli´´´
 ## Ejecutar la Aplicación
 ionic serve
 
