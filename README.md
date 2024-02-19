@@ -21,8 +21,14 @@ npm install
 Asegurese de tener Angular Cli instalado
 y a su vez ionic
 puede hacerlo mediante estos dos comandos 
-´´´npm install -g @ionic/cli´´´
-´´´npm install @angular/cli´´´
+```
+npm install -g @ionic/cli
+```
+npm install @angular/cli
+```
+npm install -g @ionic/cli
+```
+
 ## Ejecutar la Aplicación
 ionic serve
 
