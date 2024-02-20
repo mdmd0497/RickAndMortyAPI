@@ -24,9 +24,9 @@ puede hacerlo mediante estos dos comandos
 ```
 npm install -g @ionic/cli
 ```
-npm install @angular/cli
+
 ```
-npm install -g @ionic/cli
+npm install @angular/cli
 ```
 
 ## Ejecutar la Aplicación
